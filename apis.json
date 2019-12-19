@@ -1,0 +1,68 @@
+{
+    "name": "Intel Open Source",
+    "description": "The Intel Open Source Technology Center is committed to open source projects including the Linux Kernel, graphics, Android, Webkit and others.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-02-55-pm.jpg",
+    "tags": [
+        "api tools",
+        "compute",
+        "hardware",
+        "have api",
+        "networks",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/intel-open-source\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Intel Open Source",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-02-55-pm.jpg",
+            "humanURL": "https:\/\/01.org\/hyperscan",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/intel-open-source-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/01.org\/group\/3655\/blogs"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/01.org\/group\/3655\/blogs\/rss.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/intel-open-source-technology-center"
+        },
+        {
+            "type": "Email",
+            "url": "android-ia@lists.01.org"
+        },
+        {
+            "type": "Email",
+            "url": "info@01.org"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/01org"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/intelopensource"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/01.org\/hyperscan"
+        }
+    ]
+}
